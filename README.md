@@ -1,4 +1,4 @@
-# Hotel Cancellation Prediction (3)
+# Hotel_Guest_Churn_Prediction_&_Cancellation_Prediction
 
 ### Motivation
 My goal for this project includes the following
